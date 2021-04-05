@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day1-code/day1-code.iml" filepath="$PROJECT_DIR$/day1-code/day1-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2-code/day2-code.iml" filepath="$PROJECT_DIR$/day2-code/day2-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day3-code/day3-code.iml" filepath="$PROJECT_DIR$/day3-code/day3-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1-code/day4-html.iml" filepath="$PROJECT_DIR$/day1-code/day4-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4_html/day4_html.iml" filepath="$PROJECT_DIR$/day4_html/day4_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day5_html/day5_html.iml" filepath="$PROJECT_DIR$/day5_html/day5_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day6_html JavaScript基础/day6_html.iml" filepath="$PROJECT_DIR$/day6_html JavaScript基础/day6_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7_html JavaScript高级/day7_html JavaScript高级.iml" filepath="$PROJECT_DIR$/day7_html JavaScript高级/day7_html JavaScript高级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day8_bootstrap/day8_bootstrap.iml" filepath="$PROJECT_DIR$/day8_bootstrap/day8_bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day9_xml/day9_xml.iml" filepath="$PROJECT_DIR$/day9_xml/day9_xml.iml" />
+    </modules>
+  </component>
+</project>

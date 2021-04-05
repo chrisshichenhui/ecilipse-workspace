@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>window</title>
+</head>
+<body>
+   <input id="openBtn" type="button" value="打开窗口">
+   <input id="closeBtn" type="button" value="关闭窗口">
+<script>
+    // 特点：window.方法（）   或者直接省略window   直接调用方法
+    //
+    // 1、与弹出框有关的方法
+
+    // alert("hello 哈哈");
+    // window.alert("hello  第二个特点");
+    //
+    // alert("hello window");
+
+    // var flag=confirm("您确定要退出吗？");
+    // if(flag){
+    //     //退出操作
+    //
+    //     alert("欢迎再次光临！")
+    // }else{
+    //     //提示：手别抖。。。
+    //     alert("手别抖....")
+    // }
+
+
+    // var result=prompt("请输入用户名");
+    // alert(result);
+
+
+    //与打开关闭有关的方法
+
+    //
+    //
+    // var openBtn=document.getElementById("openBtn");
+    // var newWindow;
+    // var closeBtn=document.getElementById("closeBtn");
+    // openBtn.onclick = function () {
+    //     //打开新窗口
+    //    newWindow= open("https://www.baidu.com");
+    // }
+    // closeBtn.onclick = function () {
+    //     newWindow.close();
+    // }
+
+
+    //一次性定时器
+    // setTimeout("alert('boom~');",3000);
+
+    // setTimeout("f()",2000);
+
+   // setTimeout(f,2000);
+
+    var id = setTimeout(f,2000);
+    clearTimeout(id);
+    function f() {
+        alert('boom')
+    };
+
+    //循环定时器
+  //  setInterval(f,2000);
+
+
+    //获取history
+
+    //
+    // var h1=history;
+    // alert(h1);
+
+    // var openBtn = Document.getElementById("openBtn");
+    // alert(openBtn);
+    //
+
+
+
+</script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>常见事件</title>
+    <script>
+        //失去焦点  onblur
+        // document.getElementById("username").onblur=function () {
+        //     alert("俺失去焦点了")
+        // }
+
+
+
+        //加载完成事件
+        window.onload = function () {
+            //获得焦点  onfocus
+            // document.getElementById("username").onfocus=function () {
+            //     alert("俺获得焦点了")
+            // }
+            // document.getElementById("username").onmouseover = function () {
+            //     alert("鼠标来了")
+            // }
+
+            // 鼠标按下去了
+            // document.getElementById("username").onmousedown =function () {
+            //     alert("鼠标按下去了");
+            // }
+
+            //获取鼠标的按钮 button	返回当事件被触发时，哪个鼠标按钮被点击。
+
+            //     document.getElementById("username").onmousedown = function (event) {
+            //         alert(event.button);
+            //     }
+
+
+
+            //键盘事件
+            // document.getElementById("username").onkeydown = function (event) {
+            //     // alert(event.keyCode);
+            //
+            //     if (event.keyCode ==13){
+            //         alert("提交表单");
+            //     }
+            // }
+
+            //改变事件
+            // document.getElementById("username").onchange = function (event) {
+            //     alert("改变了啊");
+            // }
+
+               document.getElementById("form").onsubmit = function () {
+                   //校验用户名称格式是否正确
+
+                   var flag = false;
+
+                   return flag;
+               }
+
+        }
+    </script>
+
+</head>
+<body>
+
+<form action="#" id="form">
+    <input type="text" id="username">
+
+    <select id="city">
+        <option>--请选择--</option>
+        <option>北京</option>
+        <option>上海</option>
+        <option>西安</option>
+    </select>
+    <input type="submit" value="提交">
+</form>
+
+
+</body>
+</html>

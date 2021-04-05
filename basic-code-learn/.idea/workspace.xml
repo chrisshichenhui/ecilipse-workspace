@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0985f608-6e43-440f-b9fa-2f89f49e76ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dqZVWRuCPGV0YicmwqGGbHg7Lc" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day9_xml/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day9_xml/src" />
+      <recent name="$PROJECT_DIR$/day9_xml/libs" />
+      <recent name="$PROJECT_DIR$/day9_xml/src/cn/itcast/xml/dtd" />
+      <recent name="$PROJECT_DIR$/day8_bootstrap" />
+      <recent name="$PROJECT_DIR$/day7_html JavaScript高级/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day8_bootstrap" />
+      <recent name="$PROJECT_DIR$/day7_html JavaScript高级/img" />
+      <recent name="$PROJECT_DIR$/day7_html JavaScript高级/src" />
+      <recent name="$PROJECT_DIR$/day7_html JavaScript高级/test" />
+      <recent name="$PROJECT_DIR$/day7_html JavaScript高级" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JsoupDemo1">
+    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.learn.calendar.Demo1" />
+      <module name="day2-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.learn.calendar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsoupDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.xml.jsoup.JsoupDemo1" />
+      <module name="day9_xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.xml.jsoup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.learn.stringBuilder.demo1" />
+      <module name="day2-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.learn.stringBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.learn.stringBuilder.demo2" />
+      <module name="day2-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.learn.stringBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="特殊语法.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/basic-code-learn/day6_html/特殊语法.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JsoupDemo1" />
+        <item itemvalue="JavaScript Debug.特殊语法.html" />
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.Demo1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0985f608-6e43-440f-b9fa-2f89f49e76ea" name="Default Changelist" comment="" />
+      <created>1593154607826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593154607826</updated>
+      <workItem from="1593154614307" duration="64964000" />
+      <workItem from="1594689100621" duration="33383000" />
+      <workItem from="1595923543953" duration="41923000" />
+      <workItem from="1600150479906" duration="17259000" />
+      <workItem from="1600830117050" duration="15848000" />
+      <workItem from="1603098904253" duration="9839000" />
+      <workItem from="1603438512283" duration="3373000" />
+      <workItem from="1604048762726" duration="12987000" />
+      <workItem from="1604997826810" duration="5156000" />
+      <workItem from="1605239995586" duration="28372000" />
+      <workItem from="1606824365183" duration="25909000" />
+      <workItem from="1610437519537" duration="2986000" />
+      <workItem from="1610689615115" duration="110000" />
+      <workItem from="1610703290087" duration="994000" />
+      <workItem from="1610961458312" duration="65452000" />
+      <workItem from="1612660442881" duration="5777000" />
+      <workItem from="1613609916751" duration="8752000" />
+      <workItem from="1614214303580" duration="7948000" />
+      <workItem from="1616029659211" duration="5081000" />
+      <workItem from="1617245843972" duration="6396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day7_html JavaScript高级/src/test.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

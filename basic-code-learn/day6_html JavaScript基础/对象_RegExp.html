@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>正则</title>
+
+    <script>
+
+      //创建
+        var reg=new RegExp("\\w{6,12}");
+
+        var reg2 =  /^\w{6,12}$/;
+
+      //   alert(reg);
+      //   alert(reg2);
+//   开始和结束
+         var username = "zhangs";
+
+         //验证
+        var flag = reg.test(username);
+        alert(flag);
+
+
+      //   var reg = new RegExp("[0-9a-zA-Z\_]");
+      // var reg1 =/^\d{3}\-\d{3,8}/;
+      // var reg2=/^(\d{3})-(\d{3,8})$/;
+      //   var loginName="010-129878";
+      //   document.write(reg2.exec(loginName)+"<br>");
+        //document.write((loginName.split(''))+"<br>");
+
+        // var flag1 = reg1.test(loginName);
+        // document.write(flag1+"<br>");
+
+
+
+
+      // var reg3=/^(\d+?)(0*)$/;
+      // var loginName="12320000";
+      // reg3.exec(loginName);
+      //
+
+
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

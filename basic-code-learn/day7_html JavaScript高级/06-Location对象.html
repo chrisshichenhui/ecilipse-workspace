@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Location对象</title>
+</head>
+<body>
+<input type="button" id="btn" value="刷新">
+<input type="button" id="goBaidu" value="去百度首页">
+
+<script>
+    //  reload方法，定义一个按钮，点击按钮，刷新当前页面
+    //1.获取按钮
+    var btn=document.getElementById("btn");
+    //2.绑定单击事件
+    btn.onclick=function () {
+        location.reload();
+    }
+
+    var href = location.href;
+    var goBaidu=document.getElementById("goBaidu");
+
+    goBaidu.onclick=function () {
+        location.href = "https://www.baidu.com";
+    }
+</script>
+</body>
+</html>
